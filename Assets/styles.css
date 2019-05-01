@@ -1,0 +1,36 @@
+.footer{
+    background-color: rgb(145, 241, 209);
+    color: midnightblue;
+    height: 150px;
+    width: 100%;
+    box-sizing: border-box;
+    position: relative ;
+    bottom: 0;
+    padding: 3px 30px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.cuerpo{
+    font-family: 'Luckiest Guy', cursive;
+    color:midnightblue;
+    padding: 40px 0;
+}
+
+
+.fondouno{
+    background-color: lightcyan;
+}
+
+.fondodos{
+    background-color: rgb(57, 236, 227);
+}
+
+p.margenes{
+    padding: 50px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-family: 'Merienda', cursive;
+
+}
